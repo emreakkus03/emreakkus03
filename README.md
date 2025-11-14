@@ -9,4 +9,4 @@ I'm a student graduate programming at Artevelde University of Applied Sciences.
 - **React**
 
 ## 🤝Connect with me
-- <a href="https://www.linkedin.com/in/emre-akkus-118363251/" target="_blank">LinkedIn</a>
+- **[LinkedIn](https://www.linkedin.com/in/emre-akkus-118363251/)**
